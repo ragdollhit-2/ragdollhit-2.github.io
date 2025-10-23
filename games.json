@@ -3,5 +3,45 @@
         "name": "Ragdoll Hit",
         "slug": "ragdoll-hit",
         "image": "/cache/data/image/game/ragdoll-hit/ragdollhitgame-m186x186.webp"
+    },
+    {
+        "name": "Ragdoll Playground",
+        "slug": "ragdoll-playground",
+        "image": "/cache/data/image/game/ragdoll-playground/ragdoll-playground-m186x186.webp"
+    },
+    {
+        "name": "Ragdoll Hit Stickman",
+        "slug": "ragdoll-hit-stickman",
+        "image": "/cache/data/image/game/ragdoll-hit-stickman/ragdoll-hit-stickman-m186x186.webp"
+    },
+    {
+        "name": "Ragdoll Archers",
+        "slug": "ragdoll-archers",
+        "image": "/cache/data/image/game/ragdoll-archers/ragdoll-archers-m186x186.webp"
+    },
+    {
+        "name": "War of Sticks",
+        "slug": "war-of-sticks",
+        "image": "/cache/data/image/game/war-of-sticks/war-of-sticks-m186x186.webp"
+    },
+    {
+        "name": "Stick Defenders",
+        "slug": "stick-defenders",
+        "image": "/cache/data/image/game/stick-defenders/stick-defenders-m186x186.webp"
+    },
+    {
+        "name": "Stick Archers Battle",
+        "slug": "stick-archers-battle",
+        "image": "/cache/data/image/game/stick-archers-battle/stick-archers-battle-m186x186.webp"
+    },
+    {
+        "name": "Stickman Dragon Fight",
+        "slug": "stickman-dragon-fight",
+        "image": "/cache/data/image/game/stickman-dragon-fight/stickman-dragon-fight-m186x186.webp"
+    },
+    {
+        "name": "Stickman Hook",
+        "slug": "stickman-hook",
+        "image": "/cache/data/image/game/stickman-hook/stickman-hook-m186x186.webp"
     }
 ]
